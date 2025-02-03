@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<services>
+    <cloudstreamsCollectionKeys serviceName="WmWorkdayProvider.SOAPVS">
+        <servicesKeys>
+            <keyDetails collectionKey="EmployeeData.connectorServices:getEmpCurrentMonthData" connectorServiceName="EmployeeData.connectorServices:getEmpCurrentMonthData"/>
+            <keyDetails collectionKey="EmployeeData.connectorServices:getWorkdayOrgDataforDemo" connectorServiceName="EmployeeData.connectorServices:getWorkdayOrgDataforDemo"/>
+            <keyDetails collectionKey="EmployeeData.connectorServices:getWorkerData" connectorServiceName="EmployeeData.connectorServices:getWorkerData"/>
+        </servicesKeys>
+    </cloudstreamsCollectionKeys>
+</services>
